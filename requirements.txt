@@ -1,0 +1,10 @@
+SimpleITK
+numpy
+torchio==0.18.92
+monai[all]
+scikit-image
+torch
+torchvision
+scikit-learn
+numpy
+
